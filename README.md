@@ -1,4 +1,4 @@
-### Model_1
+## Model_1
 #### 1. Model 
 ![1](https://user-images.githubusercontent.com/65647080/121796961-0b144c00-cc58-11eb-9158-173072ac5cc6.PNG)
 #### 2. Training with Training loss 
@@ -9,8 +9,8 @@
 ![4](https://user-images.githubusercontent.com/65647080/121796966-10719680-cc58-11eb-9d42-2146868c69c9.PNG)
 #### 5. Images and corresponding probability that predicted Wrong
 ![5](https://user-images.githubusercontent.com/65647080/121796967-11a2c380-cc58-11eb-8ab9-476651c364ab.PNG)
-<br/>
-### Model_2
+<br/><br/>
+## Model_2
 #### 1. Model 
 ![1](https://user-images.githubusercontent.com/65647080/121796971-1a939500-cc58-11eb-8a59-b25784c5f801.PNG)
 #### 2. Training with Training loss 
@@ -21,8 +21,8 @@
 ![4](https://user-images.githubusercontent.com/65647080/121796976-1f584900-cc58-11eb-8be0-7abb55444b93.PNG)
 #### 5. Images and corresponding probability that predicted Wrong
 ![5](https://user-images.githubusercontent.com/65647080/121796977-20897600-cc58-11eb-949a-36e0ed6606e0.PNG)
-<br/>
-### Model_3
+<br/><br/>
+## Model_3
 #### 1. Model 
 ![1](https://user-images.githubusercontent.com/65647080/121796979-23846680-cc58-11eb-865a-0a575cac321a.PNG)
 #### 2. Training with Training loss 
